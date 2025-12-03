@@ -71,7 +71,7 @@ st.markdown(
       <div style="display:flex;flex-direction:column;align-items:flex-end;">
          <span class="pill">Agentic • RAG • SEO</span>
          <div style="height:6px"></div>
-         <span class="small-muted">Fast demo • Portfolio-ready</span>
+         <span class="small-muted"></span>
       </div>
     </div>
     """,
@@ -261,3 +261,4 @@ else:
         """,
         unsafe_allow_html=True,
     )
+
